@@ -1,0 +1,30 @@
+body {
+    background-image: url("181746278_2527563670885909_845620651899036779_n\ \(1\).jpg");
+    color: aqua;
+}
+
+p{
+    text-align: justify;
+}
+
+a{
+    color: aqua;
+}
+
+h1{
+    text-align: center;
+    height: 50px;
+}
+
+#furdo{
+    height: 200px;
+}
+
+#kamera{
+    height: 200px;
+}
+
+#taj{
+    float: right;
+    height: 200px;
+}
