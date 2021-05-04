@@ -1,0 +1,38 @@
+body {
+    background-image: url("181746278_2527563670885909_845620651899036779_n.jpg");
+    color: aqua;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: justify;
+}
+
+a{
+    color: aqua;
+}
+
+#terkep{
+    float: right;
+    height: 175px;
+    padding-left: 10px;
+}
+
+#strand{
+    height: 200px;
+}
+
+#kikötö{
+    height: 190px;
+}
+
+#kaland{
+    height: 325px;
+}
+
+h1{
+    text-align: center;
+    height: 50px;
+}
+
